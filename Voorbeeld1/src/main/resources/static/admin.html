@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>Productbeheer (Admin)</title>
+</head>
+<body>
+<h1>Productbeheer</h1>
+
+<h2>Nieuw product toevoegen</h2>
+<form id="addForm">
+    <label>Naam: <input type="text" id="name"></label><br>
+    <label>Omschrijving: <input type="text" id="description"></label><br>
+    <label>Hoeveelheid: <input type="number" id="quantity"></label><br>
+    <label>Prijs: <input type="number" step="0.01" id="price"></label><br>
+    <button type="submit">Toevoegen</button>
+</form>
+
+<h2>Bestaande producten</h2>
+<div id="productList"></div>
+
+<script src="admin.js"></script>
+</body>
+</html>
