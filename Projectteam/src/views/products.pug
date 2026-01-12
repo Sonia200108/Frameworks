@@ -1,0 +1,29 @@
+extends layout
+
+block content
+  section.container(style="max-width: 1000px;")
+    h1 Products Overview
+
+    if products.length
+      table.data-table
+        thead
+          tr
+            th ID
+            th Name
+            th Price (€)
+            th Stock
+            th Category
+        tbody
+          each product in products
+            tr
+              td= product.id
+              td= product.name
+              td= parseFloat(product.price).toFixed(2)
+              td= product.stock
+              td
+                if product.category
+                  a(href=`/products/category/${product.category.id}` style="color:#007bff; text-decoration:none;")= product.category.name
+                else
+                  | No category
+    else
+      p.info-text No products found.

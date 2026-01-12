@@ -1,0 +1,25 @@
+extends layout
+
+block content
+  section.container(style="max-width: 1000px;")
+    h1 Products in "#{categoryName}"
+
+    if products.length
+      table.data-table
+        thead
+          tr
+            th ID
+            th Name
+            th Price (€)
+            th Stock
+        tbody
+          each product in products
+            tr
+              td= product.id
+              td= product.name
+              td= parseFloat(product.price).toFixed(2)
+              td= product.stock
+    else
+      p.info-text= message || "No products found."
+
+    a(href="/products" class="link-secondary") Back to all products

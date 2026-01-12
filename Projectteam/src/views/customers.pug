@@ -1,0 +1,25 @@
+extends layout
+
+block content
+  section.container(style="max-width: 900px;")
+    h1 Customers Overview
+
+    if customers.length
+      table.data-table
+        thead
+          tr
+            th ID
+            th Name
+            th Email
+            th Address
+            th Phone
+        tbody
+          each customer in customers
+            tr
+              td= customer.id
+              td= customer.name
+              td= customer.email
+              td= customer.profile ? customer.profile.address : '—'
+              td= customer.profile ? customer.profile.phone : '—'
+    else
+      p.info-text No customers found.

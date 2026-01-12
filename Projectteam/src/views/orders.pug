@@ -1,0 +1,31 @@
+extends layout
+
+block content
+  section.container(style="max-width: 1000px;")
+    h1 Orders Overview
+
+    if orders.length
+      table.data-table
+        thead
+          tr
+            th ID
+            th Date
+            th Customer
+            th Products
+            th(style="text-align:right;") Total (€)
+        tbody
+          each order in orders
+            tr
+              td= order.id
+              td= new Date(order.date).toLocaleDateString()
+              td= order.customer ? order.customer.name : 'Unknown'
+              td
+                if order.products && order.products.length
+                  ul(style="margin:0; padding-left:20px; list-style-type:disc;")
+                    each p in order.products
+                      li #{p.name} (€#{p.price.toFixed(2)})
+                else
+                  | No products
+              td(style="text-align:right; font-weight:bold;")= order.total.toFixed(2)
+    else
+      p.info-text No orders found.

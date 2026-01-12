@@ -1,0 +1,16 @@
+extends layout
+
+block content
+  section.container(style="max-width: 900px; margin: 60px auto;")
+    h1 Admin Dashboard
+    p(style="color: #555; text-align:center; margin-bottom: 35px;")
+      | Welcome to the admin panel. Use the options below to manage the store.
+    .admin-grid
+      a(href="/admin/products/add" class="admin-card")
+        span Add Products
+      a(href="/admin/categories/add" class="admin-card")
+        span Add Category
+      a(href="/admin/customers/add" class="admin-card")
+        span Add Customer
+      a(href="/admin/orders/add" class="admin-card")
+        span Add Order
