@@ -1,0 +1,32 @@
+{
+   "name": "projectgroup22",
+   "version": "0.0.1",
+   "description": "Awesome project developed with TypeORM.",
+   "type": "commonjs",
+   "devDependencies": {
+      "@types/express": "^5.0.0",
+      "@types/node": "^16.18.115",
+      "ts-node": "^10.9.1",
+      "typescript": "^4.5.2"
+   },
+   "dependencies": {
+      "ejs": "^3.1.10",
+      "express": "^4.21.1",
+      "mysql2": "^3.15.3",
+      "pug": "^3.0.3",
+      "reflect-metadata": "^0.1.13",
+      "typeorm": "0.3.20",
+      "ws": "^8.18.0"
+   },
+   "scripts": {
+      "start": "ts-node src/index.ts",
+      "typeorm": "typeorm-ts-node-commonjs",
+      "migration:run": "npm run typeorm migration:run -- -d src/data-source.ts",
+      "migration:generate": "npm run typeorm migration:generate -- -d src/data-source.ts",
+      "migration:create": "npm run typeorm migration:create",
+      "migration:revert": "npm run typeorm migration:revert -- -d src/data-source.ts"
+   },
+   "main": "index.js",
+   "author": "",
+   "license": "ISC"
+}

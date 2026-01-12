@@ -1,0 +1,56 @@
+doctype html
+html
+  head
+    include head.pug
+    meta(charset="UTF-8")
+    meta(name="viewport" content="width=device-width, initial-scale=1.0")
+    title School Form
+    style.
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+      }
+      .form-container {
+        background-color: white;
+        padding: 3rem;
+        border-radius: 8px;
+        max-width: 400px;
+        margin: 0 auto;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      .form-group {
+        margin-bottom: 15px;
+      }
+      .form-group label {
+        display: block;
+        margin-bottom: 5px;
+      }
+      .form-group input {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+      }
+      .submit-btn {
+        background-color: #4CAF50;
+        color: white;
+        padding: 10px 15px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+      .submit-btn:hover {
+        background-color: #45a049;
+      }
+  body
+    .form-container
+      h2 Child Registration Form
+      form(action="submitFormChild", method="POST")
+        .form-group
+          label(for="childName") Child's Name:
+          input#childName(type="text", name="childName", placeholder="Enter child's name", required)
+        .form-group
+          label(for="childAge") Child's Age:
+          input#childAge(type="number", name="childAge", placeholder="Enter child's age", required)
+        button.submit-btn(type="submit") Submit
+    h3 #{string}

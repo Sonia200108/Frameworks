@@ -1,0 +1,25 @@
+doctype html
+html
+    include head.pug
+    head
+        title Classes List
+    body
+        h1 List of Classes
+        table
+            thead
+                tr
+                    th ID
+                    th Name
+                    th Year
+                    th teacher
+            tbody
+                each klass in classes
+                    tr
+                        td= klass.id
+                        td
+                            a(href='class/' + klass.id) #{klass.className}
+                        td= klass.year
+                        - if (klass.teacher)
+                            td= klass.teacher.name
+                        - else 
+                            td No teacher

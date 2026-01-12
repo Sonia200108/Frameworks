@@ -1,0 +1,25 @@
+doctype html
+html
+    include head.pug
+    head
+        title Children List
+    body
+        h1 List of Children
+        table
+            thead
+                tr
+                    th ID
+                    th Name
+                    th Age
+                    th Family
+            tbody
+                each child in children
+                    tr
+                        td= child.id
+                        td
+                            a(href='children/' + child.id) #{child.name}
+                        td= child.age
+                        if child.family
+                            td= child.family.id
+                        else
+                            td this child isn't part of a family yet

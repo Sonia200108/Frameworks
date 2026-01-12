@@ -1,0 +1,41 @@
+doctype html
+html
+    include head.pug
+    head
+        title Families List
+    body
+        h1 List of families
+        table
+            thead
+                tr
+                    th ID
+                    th Parent1 
+                    th Parent2
+                    th Children
+                    th Add Child
+                    th Delete Family (cascade)
+            tbody
+                each family in families
+                    tr
+                        td= family.id
+                        td
+                            if family.parent1
+                                p #{family.parent1.name}
+                            else
+                                | No parent set
+                        td
+                            if family.parent2
+                                p #{family.parent2.name}
+                            else
+                                | No parent set
+                        td
+                            each child, index in family.children
+                                a(href='children/' + child.id) #{child.name}
+                                if index < family.children.length - 1
+                                    | , 
+                        td
+                            a(href='/family/addchild/' + family.id) click here
+                        td
+                            a(href='/family/delete/' + family.id) click here
+             
+        h3 #{string}

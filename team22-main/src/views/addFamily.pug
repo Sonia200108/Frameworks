@@ -1,0 +1,62 @@
+doctype html
+html
+  head
+    include head.pug
+    meta(charset="UTF-8")
+    meta(name="viewport" content="width=device-width, initial-scale=1.0")
+    title Add a family
+    style.
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+      }
+      .form-container {
+        background-color: white;
+        padding: 3rem;
+        border-radius: 8px;
+        max-width: 400px;
+        margin: 0 auto;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      .form-group {
+        margin-bottom: 15px;
+      }
+      .form-group label {
+        display: block;
+        margin-bottom: 5px;
+      }
+      .form-group input {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+      }
+      .submit-btn {
+        background-color: #4CAF50;
+        color: white;
+        padding: 10px 15px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+      .submit-btn:hover {
+        background-color: #45a049;
+      }
+  body
+    .form-container
+      h2 Family Registration Form
+      form(action="submitFormFamily", method="POST")
+        .form-group
+          label(for="parent1") Name of parent 1:
+          select#parent1(name="parent1" required)
+            option(value="" disabled selected) Select a name...
+            each parent in parents
+              option(value=parent.id) #{parent.name}
+        .form-group
+          label(for="parent2") Name of parent 2:
+          select#parent1(name="parent2" required)
+            option(value="" disabled selected) Select a name...
+            each parent in parents
+              option(value=parent.id) #{parent.name}
+        button.submit-btn(type="submit") Submit
+    h3 #{string}

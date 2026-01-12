@@ -1,0 +1,29 @@
+doctype html
+html
+    include head.pug
+    head
+        title Children List
+    body
+h2 Child Details
+p Name: #{child.name}
+
+- if (child.family)
+    h3 Family Information:
+    ul
+        - if (child.family.parent1)
+            li
+                a(href=`/parent/${child.family.parent1.id}`) Parent 1: #{child.family.parent1.name}
+        - if (child.family.parent2)
+            li
+                a(href=`/parent/${child.family.parent2.id}`) Parent 2: #{child.family.parent2.name}
+        each familyChild in child.family.children
+            li
+                a(href=`/child/${familyChild.id}`) Child: #{familyChild.name}
+- else
+    p This child doesn't belong to any family yet.
+
+- if (child.__klass__)
+    h3 Class Information:
+    p class: #{child.__klass__.className} (Year: #{child.__klass__.year})
+- else
+    p This child is not assigned to any class yet.

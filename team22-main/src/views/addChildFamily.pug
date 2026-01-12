@@ -1,0 +1,69 @@
+doctype html
+html
+  head
+    include head.pug
+    meta(charset="UTF-8")
+    meta(name="viewport" content="width=device-width, initial-scale=1.0")
+    title School Form
+    style.
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+      }
+      .form-container {
+        background-color: white;
+        padding: 3rem;
+        border-radius: 8px;
+        max-width: 400px;
+        margin: 0 auto;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      .form-group {
+        margin-bottom: 15px;
+      }
+      .form-group label {
+        display: block;
+        margin-bottom: 5px;
+      }
+      .form-group input {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+      }
+      .submit-btn {
+        background-color: #4CAF50;
+        color: white;
+        padding: 10px 15px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+      .submit-btn:hover {
+        background-color: #45a049;
+      }
+  body
+    h2 List of children:
+    table
+        thead
+            tr
+                th Name
+        tbody
+          if children
+            each child in children
+                tr
+                    td
+                        a(href='children/' + child.id) #{child.name}
+    .form-container
+      h2 Add Child to Family Registration Form
+      form(action="submitFormChildFamily", method="POST")
+        .form-group
+          label(for="childId") Name of child:
+          select#childId(name="childId" required)
+            option(value="" disabled selected) Select a name...
+            each child in childrenList
+              option(value=child.id) #{child.name}
+        .form-group 
+            input(type="hidden", name="familyId", value=familyId)
+        button.submit-btn(type="submit") Submit
+    h3 #{string}

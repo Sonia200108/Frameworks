@@ -1,0 +1,14 @@
+doctype html
+html
+    include head.pug
+    head
+        title Class
+    body
+h2 Classroom Details
+h3 Name: #{classroom.className}
+if classroom.teacher
+    h3 Teacher: #{classroom.teacher.name}
+
+h3 Children in this class:
+each child in classroom.children
+    p #{child.name}

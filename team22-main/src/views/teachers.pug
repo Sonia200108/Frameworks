@@ -1,0 +1,26 @@
+doctype html
+html
+    include head.pug
+    head
+        title Teachers List
+    body
+        h1 List of teachers
+        table
+            thead
+                tr
+                    th ID
+                    th Name 
+                    th Age
+                    th Classroom Id
+                    th Delete Teacher
+            tbody
+                each teacher in teachers
+                    tr
+                        td= teacher.id
+                        td= teacher.name 
+                        td= teacher.age 
+                        td= teacher.klass.id
+                        td 
+                            a(href='/teacher/delete/' + teacher.id) click here
+
+        h3 #{string}

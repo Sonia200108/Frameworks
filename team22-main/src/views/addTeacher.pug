@@ -1,0 +1,59 @@
+doctype html
+html
+  head
+    include head.pug
+    meta(charset="UTF-8")
+    meta(name="viewport" content="width=device-width, initial-scale=1.0")
+    title School Form
+    style.
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+      }
+      .form-container {
+        background-color: white;
+        padding: 3rem;
+        border-radius: 8px;
+        max-width: 400px;
+        margin: 0 auto;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      .form-group {
+        margin-bottom: 15px;
+      }
+      .form-group label {
+        display: block;
+        margin-bottom: 5px;
+      }
+      .form-group input {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+      }
+      .submit-btn {
+        background-color: #4CAF50;
+        color: white;
+        padding: 10px 15px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+      .submit-btn:hover {
+        background-color: #45a049;
+      }
+  body
+    .form-container
+      h2 Teacher Registration Form
+      form(action="submitFormTeacher", method="POST")
+        .form-group
+          label(for="teacherdName") Teachers Name:
+          input#teacherName(type="text", name="teacherName", placeholder="Enter teachers name", required)
+        .form-group
+          label(for="teacherAge") Teachers Age:
+          input#teacherAge(type="number", name="teacherAge", placeholder="Enter teachers age", required)
+        .form-group
+          label(for="classId") Classroom:
+          input#classId(type="number", name="classId", placeholder="Enter the class id", required)
+        button.submit-btn(type="submit") Submit
+    h3 #{string}

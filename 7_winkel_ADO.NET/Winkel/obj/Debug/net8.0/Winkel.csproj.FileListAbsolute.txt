@@ -1,0 +1,113 @@
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\Winkel.exe
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\Winkel.dll.config
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\Winkel.deps.json
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\Winkel.runtimeconfig.json
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\Winkel.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\Winkel.pdb
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\obj\Debug\net8.0\Winkel.csproj.AssemblyReference.cache
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\obj\Debug\net8.0\Winkel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\obj\Debug\net8.0\Winkel.AssemblyInfoInputs.cache
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\obj\Debug\net8.0\Winkel.AssemblyInfo.cs
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\obj\Debug\net8.0\Winkel.csproj.CoreCompileInputs.cache
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\obj\Debug\net8.0\Winkel.csproj.CopyComplete
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\obj\Debug\net8.0\Winkel.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\obj\Debug\net8.0\refint\Winkel.dll
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\obj\Debug\net8.0\Winkel.pdb
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\obj\Debug\net8.0\Winkel.genruntimeconfig.cache
+C:\Users\vongenae\Documents\frameworks\serversideframeworks\labo\2425\Reeks7 - ADO.NET\startproject\Winkel\Winkel\obj\Debug\net8.0\ref\Winkel.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\Winkel.exe
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\Winkel.dll.config
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\Winkel.deps.json
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\Winkel.runtimeconfig.json
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\Winkel.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\Winkel.pdb
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\Azure.Core.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\Azure.Identity.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\System.ClientModel.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\System.Memory.Data.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\obj\Debug\net8.0\Winkel.csproj.AssemblyReference.cache
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\obj\Debug\net8.0\Winkel.GeneratedMSBuildEditorConfig.editorconfig
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\obj\Debug\net8.0\Winkel.AssemblyInfoInputs.cache
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\obj\Debug\net8.0\Winkel.AssemblyInfo.cs
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\obj\Debug\net8.0\Winkel.csproj.CoreCompileInputs.cache
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\obj\Debug\net8.0\Winkel.sourcelink.json
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\obj\Debug\net8.0\Winkel.csproj.Up2Date
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\obj\Debug\net8.0\Winkel.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\obj\Debug\net8.0\refint\Winkel.dll
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\obj\Debug\net8.0\Winkel.pdb
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\obj\Debug\net8.0\Winkel.genruntimeconfig.cache
+D:\UGENT\Jaar 2\Semester 1\Frameworks voor serverapplicaties\Praktijk\Winkel\Winkel\obj\Debug\net8.0\ref\Winkel.dll
